@@ -1,0 +1,7 @@
+{
+  "name": "ProjectFlows",
+  "description": "High-performance collaborative project management system with multi-tenant workspaces, Kanban workflows, sprint tracking, and Supabase PostgreSQL persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
